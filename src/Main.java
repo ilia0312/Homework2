@@ -52,6 +52,6 @@ public class Main {
         System.out.println("Количество новых сотрудников в компании - " + newEmployees);
         var totalNumberEmpoyees = numberEmployees + newEmployees;
         var totalHours2 = totalNumberEmpoyees * forOneHour;
-        System.out.println("Если в компании работает " + totalNumberEmpoyees + " человека, то всего " + totalHours2 + " часов работы может быть поделено между сотрудниками.");
+        System.out.println("Если в компании работает " + totalNumberEmpoyees + " человека, то всего " + totalHours2 + " часов работы может быть поделено между сотрудниками");
     }
 }
